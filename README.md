@@ -23,8 +23,7 @@ This assignment focuses on understanding and implementing data transfer between 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone [project-link]
-cd [project-directory]
+git clone [https://github.com/deepjyotk/react-send-data-child-to-parent-pccc5q.git](https://github.com/deepjyotk/react-send-data-child-to-parent-pccc5q.git)
 npm install
 ```
 
