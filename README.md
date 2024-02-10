@@ -1,12 +1,10 @@
-# react-send-data-child-to-parent-pccc5q
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/deepjyotk/react-send-data-child-to-parent-pccc5q)
 
-Here's a simple README for your GitHub project based on the details you've given:
 
----
 
 # React Parent-Child Communication
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/deepjyotk/react-send-data-child-to-parent-pccc5q)
 
 ## Overview
 
